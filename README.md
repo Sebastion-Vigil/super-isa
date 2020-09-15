@@ -6,8 +6,8 @@
 
 **5 Basic Conceptual Components  (in no particular order--yet**
 
-- A moving platform that steadly increases speed (max speed?)
-- A background steadily moving at slower speed (parallax--R&D time yay!)
-- A sprite--our one and only, Super Isa
-- Other sprites--enemies/obstacles to jump over (or maybe blast with laser)
-- A Score/info window somewhere at the top of the screen.
+- Prototype: A moving platform that steadly increases speed (max speed?)
+- Prototype: A background steadily moving at slower speed (parallax--R&D time yay!)
+- Prototype: A sprite--our one and only, Super Isa
+- Prototype: Other sprites--enemies/obstacles to jump over (or maybe blast with laser)
+- Prototype: A Score/info window somewhere at the top of the screen.
