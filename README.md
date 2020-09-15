@@ -4,8 +4,8 @@
 
 *An otherworldy adventure starring Super Isa*
 
-### 5 Basic Conceptual Components in no particular order--yet:
-
+### 5 Basic Components/Conceptual Chunks:
+*in no particular order--yet*
 - A steadily-moving platform incrementally increasing in speed
   - Increment method?
   - Max speed?
@@ -42,3 +42,12 @@ Hit boxes? PX only? Measurement?
 Jump how high?
 
 MVP?
+
+One main GameScreen fed all variables for:
+- Enemies 
+- Background
+- Platform
+- Super Isa sprite
+- Game Info Window
+
+Level determines number of enemies at a time, type of background, speed of platform
