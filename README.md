@@ -6,9 +6,10 @@
 
 ### 5 Basic Conceptual Components in no particular order--yet:
 
--  A steadily-moving platform incrementally increasing in speed
+- A steadily-moving platform incrementally increasing in speed
   - Increment method?
   - Max speed?
+  - R&D Parallax
 - A much slower steadily moving background
   - Different speeds?
   - Different worlds/levels?
