@@ -9,8 +9,8 @@
 - A steadily-moving platform incrementally increasing in speed
   - Increment method?
   - Max speed?
-  - R&D Parallax
 - A much slower steadily moving background
+  - R&D Parallax
   - Different speeds?
   - Different worlds/levels?
   - Night/day?
@@ -43,11 +43,25 @@ Jump how high?
 
 MVP?
 
-One main GameScreen fed all variables for:
+Initial GameScreen as layer for choosing game
+- Needed to select game
+
+One main GameEngine fed all variables for:
 - Enemies 
 - Background
 - Platform
 - Super Isa sprite
 - Game Info Window
 
+GameScreen sends GameEngine title of game selected
+- Only one at first
+- Dummie second game for testing purposes
+- Build bigger later
+
+GameEngine then grabs corresponding resources from games
+
+Game starts.
+
 Level determines number of enemies at a time, type of background, speed of platform
+
+
