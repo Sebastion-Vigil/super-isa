@@ -37,6 +37,7 @@
 ~~Function that randomly sends enemies onto screen, making game harder at higher levels~~
 
 
+
 Hit boxes? PX only? Measurement?
 
 Jump how high?
@@ -46,19 +47,19 @@ MVP?
 Initial GameScreen as layer for choosing game
 - Needed to select game
 
-One main GameEngine fed all variables for:
-- Enemies 
-- Background
-- Platform
-- Super Isa sprite
-- Game Info Window
-
 GameScreen sends GameEngine title of game selected
 - Only one at first
 - Dummie second game for testing purposes
 - Build bigger later
 
 GameEngine then grabs corresponding resources from games
+
+One main GameEngine fed all variables for:
+- Enemies 
+- Background
+- Platform
+- Super Isa sprite
+- Game Info Window
 
 Game starts.
 
