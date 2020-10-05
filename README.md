@@ -34,8 +34,8 @@
 
 #### Game Mechanic Brainstorm ####
 
-Function that randomly sends enemies onto screen, making game
-harder at higher levels
+~~Function that randomly sends enemies onto screen, making game harder at higher levels~~
+
 
 Hit boxes? PX only? Measurement?
 
