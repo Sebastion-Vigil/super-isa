@@ -46,11 +46,11 @@ MVP?
 
 Initial GameScreen as layer for choosing game
 - Needed to select game
-
-GameScreen sends GameEngine title of game selected
 - Only one at first
 - Dummie second game for testing purposes
 - Build bigger later
+
+GameScreen sends GameEngine title of game selected
 
 GameEngine then grabs corresponding resources from games
 
