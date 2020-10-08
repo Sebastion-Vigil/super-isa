@@ -36,7 +36,9 @@
 
 ~~Function that randomly sends enemies onto screen, making game harder at higher levels~~
 
+Sound effects?
 
+Music?
 
 Hit boxes? PX only? Measurement?
 
